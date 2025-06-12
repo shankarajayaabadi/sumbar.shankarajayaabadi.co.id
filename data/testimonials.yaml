@@ -1,0 +1,45 @@
+testimonials:
+  - avatar: /images/admin/avatar1.png
+    name: Fauzan
+    message: Saya terkesan dengan kualitas produk dan pemasangan yang bersih.
+    response: >-
+      Terima kasih atas kepercayaan Anda! Kami selalu berusaha memberikan hasil
+      terbaik untuk pelanggan di Sumatera Barat.
+    rating: 5
+  - avatar: /images/admin/avatar2.png
+    name: Vina
+    message: >-
+      Saya memilih sumbar.shankarajayaabadi.co.id karena testimoni bagus. Hasil
+      pemasangan presisi dan timnya ramah.
+    response: Terima kasih atas ulasannya! Kami senang Anda puas dengan produk kami.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Adi
+    message: >-
+      Saya merekomendasikan sumbar.shankarajayaabadi.co.id untuk siapa saja yang
+      ingin plafon berkualitas di Sumatera Barat.
+    response: Kami gembira dapat memenuhi harapan Anda. Terima kasih atas pilihan Anda!
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Aulia
+    message: Saya terkesan dengan pelayanan dan kualitas produk yang diberikan.
+    response: >-
+      Kami menghargai ulasan Anda. Senang dapat membantu mewujudkan interior
+      impian Anda.
+    rating: 5
+  - avatar: /images/admin/avatar5.png
+    name: Toni
+    message: >-
+      Saya memilih sumbar.shankarajayaabadi.co.id karena harga transparan. Hasil
+      pemasangan tepat waktu dan kualitas plafonnya terbaik.
+    response: >-
+      Kami berterima kasih atas kepercayaan Anda. Semoga plafon PVC kami selalu
+      memberikan kenyamanan di Sumatera Barat.
+    rating: 4
+  - avatar: /images/admin/avatar6.png
+    name: Nina
+    message: Saya terkesan dengan hasil pemasangan dan kualitas produk yang diberikan.
+    response: >-
+      Kami gembira mendengar Anda puas dengan layanan kami. Terima kasih atas
+      pilihan Anda!
+    rating: 5
