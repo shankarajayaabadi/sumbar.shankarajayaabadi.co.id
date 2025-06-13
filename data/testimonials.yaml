@@ -1,51 +1,47 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
-    message: Saya terkesan dengan kualitas produk dan pemasangan yang bersih.
+    name: Fikri
+    message: Saya senang dengan kualitas produk dan pemasangan yang tepat waktu.
     response: >-
-      Terima kasih atas pilihan Anda! Kami selalu berusaha memberikan hasil
-      terbaik untuk pelanggan di Sumatera Barat.
+      Terima kasih atas pilihan Anda! Kami selalu berusaha memberikan layanan
+      maksimal untuk pelanggan di Sumatera Barat.
     rating: 5
   - avatar: /images/admin/avatar2.png
-    name: Della
+    name: Indah
     message: >-
       Wall panel PVC yang dipasang menambah estetika ruangan. Proses konsultasi
-      juga membantu.
+      juga mudah.
     response: >-
       Kami gembira dapat membantu Anda menemukan plafon PVC yang cocok untuk
       rumah Anda di Sumatera Barat.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Adi
-    message: >-
-      Saya merekomendasikan sumbar.shankarajayaabadi.co.id untuk siapa saja yang
-      ingin hasil maksimal di Sumatera Barat.
+    name: Rian
+    message: Proses pemasangan plafon PVC sangat cepat dan hasilnya memuaskan.
     response: >-
-      Kami senang dapat memenuhi harapan Anda. Terima kasih atas kepercayaan
-      Anda!
+      Terima kasih telah merekomendasikan layanan kami di Sumatera Barat. Kami
+      akan terus mempertahankan kualitas.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Rosa
+    name: Lestari
     message: >-
-      Plafon PVC dari sumbar.shankarajayaabadi.co.id menambah nilai estetika.
-      Tim pemasangan profesional dan hasilnya memuaskan.
+      Plafon PVC dari sumbar.shankarajayaabadi.co.id tampak mewah. Tim
+      pemasangan sangat teliti dan hasilnya memuaskan.
     response: >-
       Terima kasih atas kepercayaannya! Kami selalu berusaha memberikan layanan
       maksimal untuk pelanggan di Sumatera Barat.
     rating: 5
   - avatar: /images/admin/avatar5.png
     name: Rio
-    message: Plafon PVC yang dipasang membuat ruangan lebih modern.
-    response: >-
-      Kami mengapresiasi kepercayaan Anda. Semoga plafon PVC kami selalu
-      memberikan kenyamanan di Sumatera Barat.
+    message: >-
+      Saya memilih sumbar.shankarajayaabadi.co.id karena harga transparan. Hasil
+      pemasangan rapi dan kualitas plafonnya tahan lama.
+    response: Terima kasih atas ulasannya! Kami senang dapat membantu proyek Anda.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Lina
-    message: >-
-      Pelayanan dari sumbar.shankarajayaabadi.co.id membantu. Plafon PVC yang
-      dipasang sangat cocok dengan desain rumah saya.
+    name: Maya
+    message: Saya terkesan dengan hasil pemasangan dan kualitas produk yang diberikan.
     response: >-
       Kami senang mendengar Anda puas dengan layanan kami. Terima kasih atas
-      kepercayaan Anda!
+      pilihan Anda!
     rating: 5
